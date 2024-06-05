@@ -30,6 +30,7 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 
 
 <h2>Program walk-through:</h2>
+<p align="center">
 <img src="https://i.imgur.com/ClzXIvc.png" height="80%" width="80%" alt="Logical Diagram"/>
 <br />
 <br />
