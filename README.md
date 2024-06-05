@@ -29,7 +29,7 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 - <b>Hydra</b> 
 
 
-<h2>Program walk-through:</h2>
+<h2>Program walk-through</h2>
 <p align="center">
 Logical Diagram Overview </br>
 </br>
@@ -37,9 +37,21 @@ Logical Diagram Overview </br>
 <br />
 <br />
 
-<h2>Objective:</h2>
-The objective of the lab is to provide a hands-on learning experience in setting up a virtualized environment for cybersecurity testing and exploration. By creating and configuring multiple virtual machines (VMs) including Windows 10, Kali Linux, Windows Server, and Ubuntu Server, the lab aims to teach skills such as network configuration, security tool installation (Splunk, Sysmon), endpoint monitoring, and security testing (using Crowbar and Hydra for brute force attacks). Joining Windows machines to an Active Directory domain and enabling Remote Desktop also adds to the learning objectives. PowerShell scripting is used for automation tasks. Overall, the lab enables participants to gain practical experience in cybersecurity concepts, tools, and techniques within a controlled environment.
+<h2>Objective</h2>
+The objective of the lab is to provide a hands-on learning experience in setting up a virtualized environment for cybersecurity testing and exploration. By installing and configuring multiple virtual machines (VMs) including Windows 10, Debian, Windows Server 2022, and Ubuntu Server, the lab aims to teach skills such as network configuration, security tool installation (Splunk, Sysmon), endpoint monitoring, and security testing (using Crowbar and Hydra for brute force attacks). Joining Windows machines to an Active Directory domain and enabling Remote Desktop also adds to the learning objectives. PowerShell scripting is used for automation tasks. Overall, the lab enables participants to gain practical experience in cybersecurity concepts, tools, and techniques within a controlled environment.
 
+<h2>Skills Learned</h2>
+Setting up VMs (Windows 10, Kali Linux, Windows Server, Ubuntu Server) in Oracle VM VirtualBox.
+Configuring IP addresses, NAT Networks for VMs.
+Troubleshooting network connectivity (ping, DNS settings).
+Installing Splunk Server and Universal Forwarder.
+Installing Sysmon for endpoint monitoring.
+Using Crowbar for brute force attacks.
+Using Atomic Red Team (ART) to simulate tests.
+Analyzing security logs (event codes 4625, 4624) in Splunk.
+Joining Windows machines to a domain.
+Enabling Remote Desktop on Windows.
+PowerShell scripting for tasks (Invoke-WebRequest, Set-ExecutionPolicy).
 <!--
  ```diff
 - text in red
