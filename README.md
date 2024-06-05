@@ -37,6 +37,9 @@ Logical Diagram Overview </br>
 <br />
 <br />
 
+<h2>Objective:</h2>
+The objective of the lab is to provide a hands-on learning experience in setting up a virtualized environment for cybersecurity testing and exploration. By creating and configuring multiple virtual machines (VMs) including Windows 10, Kali Linux, Windows Server, and Ubuntu Server, the lab aims to teach skills such as network configuration, security tool installation (Splunk, Sysmon), endpoint monitoring, and security testing (using Crowbar and Hydra for brute force attacks). Joining Windows machines to an Active Directory domain and enabling Remote Desktop also adds to the learning objectives. PowerShell scripting is used for automation tasks. Overall, the lab enables participants to gain practical experience in cybersecurity concepts, tools, and techniques within a controlled environment.
+
 <!--
  ```diff
 - text in red
