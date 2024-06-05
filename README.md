@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of setting up an Active Directory (home lab) that includes Splunk, Kali Linux & Atomic Red Team. Explore how a domain environment works, learn how to ingest events to a SIEM and generate telemetry related to attacks seen in the wild to help you detect them in the future.
+Project consisted of setting up an Active Directory (home lab) that includes Splunk, Kali Linux & Atomic Red Team. Explored how a domain environment works, learned how to ingest events to a SIEM and generated telemetry related to attacks seen in the wild to help detect them in the future.
 <br />
 
 
