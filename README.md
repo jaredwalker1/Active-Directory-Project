@@ -8,18 +8,19 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 
 <h2>Apps, Languages, & Utilities Used</h2>
 
-- <b>VirtualBox</b>
 - <b>PowerShell</b>
 - <b>Splunk</b>
 - <b>Sysmon</b>
 - <b>Terminal</b>
+- <b>VirtualBox</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b>
-- <b>Windows Server 2022</b> 
 - <b>Debian</b>
 - <b>Ubuntu</b> 
+- <b>Windows 10</b>
+- <b>Windows Server 2022</b> 
+
 
 <h2>Program walk-through:</h2>
 
