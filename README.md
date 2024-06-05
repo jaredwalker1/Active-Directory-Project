@@ -26,7 +26,7 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 <h2>Program walk-through:</h2>
 <p align="center">
 Launch the utility: <br/>
-<img src="[https://imgur.com/a/RELLZD4.png](https://imgur.com/a/rBevCyM)" height="80%" width="80%" alt="Logical Diagram"/>
+<img src="https://imgur.com/a/rBevCyM" height="80%" width="80%" alt="Logical Diagram"/>
 <br />
 <br />
 
