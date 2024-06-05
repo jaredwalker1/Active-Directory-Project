@@ -6,10 +6,14 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VirtualBox</b>
+- <b>Windows 10</b>
+- <b>Windows 2022 Server</b> 
+- <b>Debian</b>
+- <b>Ubuntu</b> 
+- <b>Terminal</b>
 
 <h2>Environments Used </h2>
 
