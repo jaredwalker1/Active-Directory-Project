@@ -29,9 +29,8 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 - <b>Hydra (Used to simulate brute force attacks.)</b> 
 
 
-<h2>Program walk-through</h2>
+<h2>Logical Diagram Overview</h2>
 <p align="center">
-Logical Diagram Overview </br>
 </br>
 <img src="https://i.imgur.com/ClzXIvc.png" height="50%" width="50%" alt="Logical Diagram"/>
 <br />
