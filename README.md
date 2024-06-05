@@ -6,7 +6,7 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 <br />
 
 
-<h2>Utilities Used</h2>
+<h2>Apps, Languages, & Utilities Used</h2>
 
 - <b>VirtualBox</b>
 - <b>PowerShell</b>
