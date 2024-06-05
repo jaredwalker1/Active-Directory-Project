@@ -10,6 +10,8 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 
 - <b>VirtualBox</b>
 - <b>PowerShell</b>
+- <b>Splunk</b>
+- <b>Sysmon</b>
 - <b>Terminal</b>
 
 <h2>Environments Used </h2>
