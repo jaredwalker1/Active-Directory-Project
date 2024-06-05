@@ -8,6 +8,7 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 
 <h2>Apps, Languages, & Utilities Used</h2>
 
+- <b>Draw.io</b>
 - <b>PowerShell</b>
 - <b>Splunk</b>
 - <b>Sysmon</b>
