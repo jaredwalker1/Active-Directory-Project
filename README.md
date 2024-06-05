@@ -15,7 +15,7 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
-- <b>Windows 2022 Server</b> 
+- <b>Windows Server 2022</b> 
 - <b>Debian</b>
 - <b>Ubuntu</b> 
 
