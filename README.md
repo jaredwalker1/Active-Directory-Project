@@ -163,6 +163,9 @@ We can view all activity of this endpoint using `index=endpoint`, and if we know
 ### *6. Run Tests on the Target Machine using Atomic Red Team (ART)*
 Open Powershell as administrator. Run `Set-ExecutionPolicy Bypass CurrentUser` > `Y`. Click the up arrow located at the bottom right of your window. Windows Security > Virus & threat protection > Manage Settings > Add or Remove Exclusions > Add an exclusion > Folder > This PC > Local Disk (C:). Now navigate back to PowerShell and run `IEX ( IWR 'https://raw.githubusercontent.com/redcanaryco/invoke-atomicredteam/master/install-atomicredteam.ps1' -UseBasicParsing);` followed by `Install-AtomicRedTeam -getAtomics` and `Y`.<br><br>Now navigate to the (C:) drive > AtomicRedTeam > Atomics. We can also navigate to https://attack.mitre.org/ in order to view adversary attacks and techniques, as well as use it as a key for the "T" values. Run `Invoke-AtomicTest T1136.001` to T1136 is a persistence, create local account test. After running this test and checking Splunk, we can see that no events popped up with the `NewLocalUser` that was created. This is excellent because we have just identified a gap in our protection. We can continue this with as many tests as we please. This makes Atomic Red Team very valuable for an organization.
 
+
+<br>This lab idea was made by MyDFIR on YouTube. (https://www.youtube.com/@MyDFIR) </br>
+<br>Thank you to MyDFIR for guiding me along the way.  </br>
 <!--
  ```diff
 - text in red
