@@ -8,25 +8,25 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 
 <h2>Apps, Languages, & Utilities Used</h2>
 
-- <b>Draw.io</b>
-- <b>PowerShell</b>
-- <b>Splunk</b>
-- <b>Sysmon</b>
-- <b>Terminal</b>
-- <b>VirtualBox</b>
+- <b>Draw.io (Diagramming)</b>
+- <b>PowerShell (Scripting - Windows)</b>
+- <b>Splunk (Log Anlaysis & Security Information and Event Management - SIEM)</b>
+- <b>Sysmon (Endpoint Security & System Monitoring)</b>
+- <b>Terminal (Command Line Interface - varies by OS)</b>
+- <b>VirtualBox (Virtualization Software)</b>
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux</b>
-- <b>Ubuntu</b> 
-- <b>Windows 10</b>
-- <b>Windows Server 2022</b>
+- <b>Debian (Linux Distribution for Attacker Machine)</b>
+- <b>Ubuntu (Linux Distribution for Server)</b> 
+- <b>Windows 10 (Desktop Operating System for Target PC)</b>
+- <b>Windows Server 2022 (Server Operating System for Active Directory)</b>
 
 <h2>Testing Tools </h2>
 
-- <b>Atomic Red Team (ART)</b> 
-- <b>Crowbar</b>
-- <b>Hydra</b> 
+- <b>Atomic Red Team (Used for security testing and validation.)</b> 
+- <b>Crowbar (Used to simulate brute force attacks.)</b>
+- <b>Hydra (Used to simulate brute force attacks.)</b> 
 
 
 <h2>Program walk-through</h2>
