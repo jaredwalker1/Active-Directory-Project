@@ -24,9 +24,9 @@ Project consisted of setting up an Active Directory (home lab) that includes Spl
 
 <h2>Testing Tools </h2>
 
-- <b>Atomic Red Team (Used for security testing and validation.)</b> 
-- <b>Crowbar (Used to simulate brute force attacks.)</b>
-- <b>Hydra (Used to simulate brute force attacks.)</b> 
+- <b>Atomic Red Team (Used for security testing and validation)</b> 
+- <b>Crowbar (Used to simulate brute force attacks)</b>
+- <b>Hydra (Used to simulate brute force attacks)</b> 
 
 
 <h2>Logical Diagram Overview</h2>
